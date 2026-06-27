@@ -26,5 +26,5 @@ disabling, and secure deprovisioning.](https://github.com/stephbiggs/Identity-Li
 and security tracking within Entra ID.](https://github.com/stephbiggs/Audit-Logs
 )
 - <b>Authentication</b>
-- [Demonstrated authentication methods assigned to user identities such as MFA.]()
+- [Demonstrated authentication methods assigned to user identities such as MFA.](https://github.com/stephbiggs/Authentication)
 
