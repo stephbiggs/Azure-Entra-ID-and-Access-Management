@@ -1,10 +1,10 @@
-<h1>Hi, I'm Ameerah, a Cybersecurity, Information Assurance Professional and IAM Associate
-</a>☺</h1>
-<h2>Identity and Access Management:</h2>
+
+<h2>Identity and Access Management in Azure:</h2>
 <b>Microsoft Azure Entra ID</b>
 - <b>Creating User's in Entra ID</b>
 - [Executed user provisioning and identity management tasks inside our Microsoft Entra ID
-environment.]()
+environment.](https://github.com/stephbiggs/User-Accounts
+)
 - <b>Cloud Provisioning - P2 Licensing</b>
 - [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.]()
 - <b>Role Assignments</b>
