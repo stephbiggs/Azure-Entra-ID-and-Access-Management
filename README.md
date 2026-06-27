@@ -8,10 +8,11 @@
 environment.](https://github.com/stephbiggs/User-Accounts
 )
 - <b>Cloud Provisioning - P2 Licensing</b>
-- [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.]()
+- [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.](https://github.com/stephbiggs/P2-Licensing
+)
 - <b>Role Assignments</b>
 - [Assigned directory roles to enforce Role-Based Access Control (RBAC) within Entra ID and
-Least Privilege.](https://github.com/stephbiggs/P2-Licensing
+Least Privilege.](https://github.com/stephbiggs/Role-Assignments
 )
 - <b>Group Assignments</b>
 - [Configured security groups and assigned groups to users to enforce access within Entra
